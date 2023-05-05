@@ -1,5 +1,5 @@
 {
-  "name": "react-ts-test",
+  "name": "first-react-ts-npm-package-test",
   "version": "1.0.0",
   "description": "first-test react typescript package",
   "main": "./dist/cjs/index.js",

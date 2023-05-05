@@ -1,4 +1,4 @@
-# First NPM Package (react-ts-test)
+# First NPM Package (first-react-ts-npm-package-test)
 
 [![NPM version][npm-image]][npm-url]
 ![npm-typescript]
