@@ -1,10 +1,10 @@
 import React, { useState } from 'react'
-import '../style.css'
+import './style.css'
 
 type Props = {
   value?: number
 }
-const MyCounter = ({ value = 0 }: Props) => {
+const MyCounter: React.FC<Props> = ({ value = 0 }: Props) => {
   const [counter, setCounter] = useState(value)
 
   const onMinus = () => {
